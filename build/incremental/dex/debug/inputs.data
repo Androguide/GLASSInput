@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370041004000 426 624daff2b5aab8268c9e9f1d68c510b78d1e8ece /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$xml.class
+1370041004000 442 9113ceaf0b285313ef43937f17520910ad993afa /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$layout.class
+1370041004000 470 d99d8ffa46a54b0ef2f083ca0615331ad0e739bf /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$style.class
+1370041004000 864 e3bfdfe39c10e317d49d76497743b4557b9811e2 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R.class
+1370020099000 446 392b41f03e535f035fb928c1280b21f5a5bb6bd3 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$drawable.class
+1370041316000 1959 c98cfb05d2a05bf81e365e48963e8e1b803946ed /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/Input.class
+1370041004000 905 9f42ad97f0c1355c3f12846e72d949b39c8a23a8 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$string.class
+1370041004000 470 a147cbdf6321203fcbd964ab87da507af8d901b1 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$id.class
+1370041004000 427 764aaac0612876930e147a2dad407fdac2555f46 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$menu.class
+1370020099000 379 8e45070bae8ddd49f4b1b6018c32a3188d83b82b /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$attr.class
+1370041224000 1417 0d98b51541d2388f3144198b8679f6f63d9c4e61 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/MainActivity.class
+1370025989000 500 1f43ced8bedb7a5a36f336324ab47cc149d9362e /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/R$dimen.class
+1370020099000 371 d1ec6768f796208c2d201944455fed3dd0b527de /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/BuildConfig.class
+1370020084000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/libs/android-support-v4.jar
+1370041224000 1412 6a72958adde3196c895a8722f1ebfbdb9ef57b1f /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/build/classes/debug/com/androguide/glasstouchscreen/MainActivity$1.class

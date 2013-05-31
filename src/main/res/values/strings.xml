@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >GLASS Input
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="hello_world" >Hello world!
+    </string>
+    <string name="swipe_left">= SWIPE LEFT</string>
+    <string name="vol_up">VOLUME UP</string>
+    <string name="controls">CONTROLS</string>
+    <string name="input_button">Go to input settings</string>
+    <string name="instructions">First of all, enable this input method in your rom\'s settings using the button below, and make GLASS Input the default one.
+    </string>
+    <string name="how_to_use">HOW TO USE</string>
+    <string name="glass_input">Glass Input</string>
+    <string name="vol_down">VOLUME DOWN</string>
+    <string name="swipe_right">= SWIPE RIGHT</string>
+    <string name="menu">MENU</string>
+    <string name="enter">= ENTER</string>
+    <string name="long_back">LONG BACK PRESS</string>
+
+</resources>

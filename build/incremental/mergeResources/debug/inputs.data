@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370020084000 181 84de2797380184d8b39af6f829afb092fb956173 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values-sw600dp/dimens.xml
+1370020084000 254 25b6404e44acb50c82590049639d4fb5fefbac8e /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values-sw720dp-land/dimens.xml
+1370042142000 5305 291f61b75025aa4751a303348997a78351998c10 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/drawable-xhdpi/ic_launcher.png
+1370025960000 155 f86827b249bb33d9151ec4a2f1474f87636411de /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/xml/method.xml
+1370020084000 680 c76f4caaa7a8dfe9727fa93001b3aee3b22d6716 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values/styles.xml
+1370020084000 324 aa1f5f1723de9aee2669dc44a26fbc0ce776d35f /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values-v11/styles.xml
+1370042142000 2025 e1f433a98ff0b82f45a613bf706a9f0e35980c51 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/drawable-mdpi/ic_launcher.png
+1370042142000 3683 1c35d4ecdc9f77c82cc91710f82ff0dd1a0b677f /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/drawable-hdpi/ic_launcher.png
+1370020084000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/menu/main.xml
+1370042142000 9175 7e3311166d182c2b09cebe26f66d010b866f486c /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/drawable-xxhdpi/ic_launcher.png
+1370040710000 954 ee7afdd8dc042825701f7ce6a5bc79c0ef3d6d11 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values/strings.xml
+1370020084000 211 4e1904afba59d31e5cd6133f6a4c360fa9a5913f /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values/dimens.xml
+1370020084000 381 b129b276e01126de5b3b753572ac67cbfc19454c /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/values-v14/styles.xml
+1370041130000 5604 e0bbb0affa4c43f60be6fd501e3ca588e19de1f2 /home/androguide/Android/workspace/MyApplicationProject/GlassTouchscreen/src/main/res/layout/activity_main.xml

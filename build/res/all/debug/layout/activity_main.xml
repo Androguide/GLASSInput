@@ -1,0 +1,146 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:paddingLeft="@dimen/activity_horizontal_margin"
+              android:paddingRight="@dimen/activity_horizontal_margin"
+              android:paddingTop="@dimen/activity_vertical_margin"
+              android:paddingBottom="@dimen/activity_vertical_margin"
+              android:orientation="vertical"
+              tools:context=".MainActivity">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="28sp"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#33b6ea"
+            android:text="@string/glass_input"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dip"
+            android:textSize="16sp"
+            android:textColor="#7a7a7a"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/how_to_use"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:layout_marginTop="8dip"
+            android:text="@string/instructions"/>
+
+    <Button
+            android:id="@+id/input_settings"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="8dip"
+            android:layout_marginLeft="8dip"
+            android:fontFamily="sans-serif-light"
+            android:textColor="#33b6ea"
+            android:onClick="onClick"
+            android:clickable="true"
+            android:text="@string/input_button"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dip"
+            android:textSize="16sp"
+            android:textColor="#7a7a7a"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/controls"/>
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dip">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#96aa39"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/vol_up"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dip"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/swipe_left"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dip">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#96aa39"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/vol_down"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dip"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/swipe_right"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dip">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#96aa39"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/menu"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dip"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/enter"/>
+    </LinearLayout>
+
+    <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dip">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#96aa39"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/long_back"/>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dip"
+                android:padding="6dip"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/enter"/>
+    </LinearLayout>
+
+</LinearLayout>
